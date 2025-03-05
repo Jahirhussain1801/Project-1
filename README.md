@@ -1,5 +1,5 @@
 # Project-1
-
+## Social Buzz 
 📌 Overview
 
 This repository contains a Data Analytics Project focused on extracting insights from datasets. The goal is to analyze data trends and visualize key findings.

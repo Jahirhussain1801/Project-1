@@ -1,3 +1,5 @@
+PROJECT 1
+
 📌 Overview
 
 This repository contains a Data Analytics Project focused on extracting insights from datasets. The goal is to analyze data trends and visualize key findings.
